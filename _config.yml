@@ -1,7 +1,7 @@
 name: JordanWollman
 favicon: null
-layout_spectrum: 0.09414151147939265
-typography_spectrum: 0.14308527717366815
+layout_spectrum: 0
+typography_spectrum: 0.24744
 title: Jordan Wollman
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.5575233816634864
+  brandStrength: 0.6875
   lightness: 0.42699152836576104
   saturation: 0.48331253230571747
   rhythmicContrast: 0.5857550203800201
