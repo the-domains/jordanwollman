@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Jordan Wollman]]></title>
         <description><![CDATA[Jordan Wollman]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jordanwollman/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Dec 2015 21:03:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 01 Sep 2016 15:01:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jordanwollman/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Toms' Honest Brand]]></title>
+            <description><![CDATA[<article><h1>Toms' Honest Brand</h1><p>A Study in Cohesive Branding It's a seeming dichotomy. Today's consumer, especially millennials and Gen Z, are shunning the so-called experiential travel products, pre-packed and hard sold to them through traditional media. And yet, they easily adopt certain brands as icons of self-expression. It's how they identify with which group they belong.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/73d273be733eade9581167a7bbda81c6/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F2000%2F1*S8uWKvW4ZGtxqpBwXH_gLg.jpeg"></article>]]></description>
+            <link>https://thegrid.ai/jordanwollman/toms-honest-brand/index.html</link>
+            <guid isPermaLink="false">29cfe0b3-c6e3-4d37-9a51-af178cb8792d</guid>
+            <pubDate>Thu, 01 Sep 2016 15:01:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Grid]]></title>
-            <description><![CDATA[<h1>The Grid</h1>]]></description>
-            <link>undefinedthe-grid/index.html</link>
+            <description><![CDATA[<p>The Grid</p>]]></description>
+            <link>https://thegrid.ai/jordanwollman/the-grid/index.html</link>
             <guid isPermaLink="false">a0f8c7b9-93dc-4a30-9f6e-f481a1efbb2d</guid>
             <pubDate>Wed, 16 Dec 2015 21:03:44 GMT</pubDate>
         </item>
