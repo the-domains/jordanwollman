@@ -4,7 +4,7 @@
         <description><![CDATA[Jordan Wollman]]></description>
         <link>https://thegrid.ai/jordanwollman/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 15:01:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 15:01:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jordanwollman/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Toms' Honest Brand]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/jordanwollman/toms-honest-brand/index.html</link>
             <guid isPermaLink="false">29cfe0b3-c6e3-4d37-9a51-af178cb8792d</guid>
             <pubDate>Thu, 01 Sep 2016 15:01:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Grid]]></title>
-            <description><![CDATA[<p>The Grid</p>]]></description>
-            <link>https://thegrid.ai/jordanwollman/the-grid/index.html</link>
-            <guid isPermaLink="false">a0f8c7b9-93dc-4a30-9f6e-f481a1efbb2d</guid>
-            <pubDate>Wed, 16 Dec 2015 21:03:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
